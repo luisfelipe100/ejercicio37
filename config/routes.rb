@@ -3,6 +3,8 @@ Rails.application.routes.draw do
 
   get 'pags/pag2'
 
+  get 'pags/pag3'
+
   get 'pages/pag1'
 
   root 'pags#pag1'
